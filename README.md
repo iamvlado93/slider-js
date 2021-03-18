@@ -1,1 +1,1 @@
-# slider-js
+https://iamvlado93.github.io/slider-js/.
