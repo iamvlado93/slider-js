@@ -6,5 +6,6 @@
   html, body {
     @include max-size;
     overflow: hidden;
+    background-image: url("https://iamvlado93.github.io/slider-js/source/img/background.png");
     background-size: cover;
   }
