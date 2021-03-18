@@ -1,4 +1,4 @@
-Current project has been compiled by The Parcel bundler
+Current project has been compiled by Parcel bundler
 
 To initiate, use commands 'npm run build'
 
