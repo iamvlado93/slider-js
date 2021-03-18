@@ -6,6 +6,5 @@
   html, body {
     @include max-size;
     overflow: hidden;
-    background-image: url("https://iamvlado93.github.io/slider-js/source/img/background.png");
-    background-size: cover;
+    background: linear-gradient(90deg, rgba(77,77,82,1) 0%, rgba(66,66,78,1) 50%, rgba(28,72,80,1) 100%);
   }
