@@ -6,5 +6,6 @@
   html, body {
     @include max-size;
     overflow: hidden;
-    @include background;
+    background-image: url(/source/img/background.png);
+    background-size: cover;
   }
