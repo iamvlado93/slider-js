@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    @include padding-margin;
+  }
+  
+  html, body {
+    @include max-size;
+    overflow: hidden;
+    @include background;
+  }
