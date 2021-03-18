@@ -8,4 +8,4 @@ The requirements for the carousel are:
   1) Works for mobile and desktop devices
   2) Support swipes
   3) Works for any HTML content
-  4) Animated, finger-following swipes.
+  4) Animated, finger-following swipes
